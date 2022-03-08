@@ -1,0 +1,13 @@
+name: MyAssignmentApp
+title: MyAssignmentApp
+username:
+account: woujzo-jun-yue
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5808686
+bundleId: 5658016
+url: https://woujzo-jun-yue.shinyapps.io/MyAssignmentApp/
+when: 1646770701.63708
+lastSyncTime: 1646770701.63708
+asMultiple: FALSE
+asStatic: FALSE
